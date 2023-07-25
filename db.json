@@ -1,4 +1,25 @@
-{
+{ "Users": [
+    {
+      "nombre":"Francis",
+      "email": "francisdelgadoa@hotmail.com",
+      "password": "Hola1234",
+      "id":"1"
+    },
+    {
+      "nombre":"Christian",
+      "email": "Christian@alura.com",
+      "password": "Hola12345",
+      "id":"2"
+      
+    },
+    {
+      "nombre":"Francis",
+      "email": "francisdelgadoa@gmail.com",
+      "password": "Hola123456",
+      "id":"3"
+      
+    }
+  ],
   "Productos": [
     {
       "imagenURL":"../img/unsplash_6FDXGY9J6y4.png",
