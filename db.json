@@ -24,7 +24,7 @@
     {
       "imagenURL":"../img/unsplash_6FDXGY9J6y4.png",
       "name": "Tarro de ceramica Soldado Tropper",
-      "categorie":"StarsWars",        
+      "categorie":"StarWars",        
       "price": "$279 MXN",
       "description":"Zak Tarro De Ceramica 3D: Star Wars - Soldado Tropper 443 ml. Zak trae para ti la nueva colección de tarros 3D con los diseños de tus personajes favoritos, directamente de Star Wars llega el nuevo .Zak Tarro De Ceramica 3D: Star Wars - Soldado Tropper 443 ml con un diseño 3D que fascinara a todos, este tarro está hecho de cerámica de alta calidad y esta listo para acompañar tus mañanas en el desayuno o para adornar tu repisa, además este tarro cuenta con un asa resistente.Incluye:Tarro 3D de Ceramica de 443 ml de Stormtrooper",
       "id":"1"
@@ -32,7 +32,7 @@
     {
       "imagenURL":"../img/unsplash_epRFE_hBNjo.png",
       "name": "Casco de Dark Vader LEGO",
-      "categorie":"StarsWars",
+      "categorie":"StarWars",
       "price": "$893 MXN",
       "description":"LEGO Star Wars - 75304 Darth Vader Helmet - New Factory Sealed in Box.",
       "id":"2"
@@ -49,7 +49,7 @@
     {
       "imagenURL":"../img/unsplash_4OHkK555s1A.png",
       "name": " Figura soldado StarWars",
-      "categorie":"StarsWars",
+      "categorie":"StarWars",
       "price": "$141.92 MXN",
       "description":"Soldado de asalto antiguo de Star Wars! + Tarjeta Biográfica! ¡LFL 3.75 ”Power of the Force 1998 Figura de acción solamente",
       "id":"4"
@@ -58,15 +58,15 @@
     {
       "imagenURL":"../img/unsplash_6FDXGY9J6y4.png",
       "name": "Baby Yoda",
-      "categorie":"StarsWars",
+      "categorie":"StarWars",
       "price": "$680 MXN",
       "description":"Peluche mattel gwd85 star wars - baby yoda the mandalorian 28 cm",
       "id":"5"
     },
     {
       "imagenURL":"../img/unsplash_1VV1MRafd7A.png",
-      "name": "Star Wars Cosplay  Kylo Ren",
-      "categorie":"StarsWars",
+      "name": "Star Wars Cosplay Kylo Ren",
+      "categorie":"StarWars",
       "price": "$1808.55 MXN",
       "description":"Big Fish - alta calidad de Star Wars Kylo Ren cosplay 2015 nuevo estilo venta de halloween navidad",
       "id":"6"
