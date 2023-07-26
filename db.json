@@ -23,7 +23,7 @@
   "Productos": [
     {
       "imagenURL":"../img/unsplash_6FDXGY9J6y4.png",
-      "name": "Tarro de ceramica Soldado Tropper",
+      "name": "Tarro de Soldado Tropper",
       "categorie":"StarWars",        
       "price": "$279 MXN",
       "description":"Zak Tarro De Ceramica 3D: Star Wars - Soldado Tropper 443 ml. Zak trae para ti la nueva colección de tarros 3D con los diseños de tus personajes favoritos, directamente de Star Wars llega el nuevo .Zak Tarro De Ceramica 3D: Star Wars - Soldado Tropper 443 ml con un diseño 3D que fascinara a todos, este tarro está hecho de cerámica de alta calidad y esta listo para acompañar tus mañanas en el desayuno o para adornar tu repisa, además este tarro cuenta con un asa resistente.Incluye:Tarro 3D de Ceramica de 443 ml de Stormtrooper",
@@ -82,7 +82,7 @@
     },
     {
       "imagenURL":"../img/unsplash_caNzzoxls8Q.png",
-      "name": "Playstation5 PS5 Cubierta De La Consola De Juegos Repuesto Para PS5 Carcasa Protectora Azul ",
+      "name": "Playstation5 PS5",
       "categorie":"Consolas",
       "price": "$857.90 MXN",
       "description":"Ámbito de aplicación: PS5.Características adicionales: enfriamiento, soporte.Material: plástico de ingeniería EVA.Productos aplicables: consola PS5.Grupo de edad aplicable: 16 años y más.Tipo de accesorios de la consola de juegos: Otros periféricos de juegos.",
@@ -98,7 +98,7 @@
     },
     {
       "imagenURL":"../img/unsplash_wa5z9o9fgjw.png",
-      "name": "Original Nintendo Switch Animal Crossing Edition New Horizons Joy Cons Oem",
+      "name": "Original Nintendo Switch Animal Crossing Edition",
       "categorie":"Consolas",
       "price": "$448 MXN",
       "description":"Mando inalámbrico para Nintendo Switch, mando izquierdo y derecho, nuevo.Color : red and blue",
@@ -142,7 +142,7 @@
     {
       
       "imagenURL":"../img/unsplash_sYVY_ZKwaxU.png",
-      "name": "Sonic The Hedgehog Mini Icons Sonic Classic Edition Figura",
+      "name": "Sonic Mini Classic Edition Figura",
       "price": "$890.52 MXN",
       "categorie":"Diversos",
       "description":"Fabricación: resina pintada a mano con acabado lacado de alta calidad.Color: clásico (también disponible en azul y gris).Peso: 300 g. Dimensiones: 13,5 x 8 x 9 cm.Producto con licencia oficial: SEGA",
@@ -151,7 +151,7 @@
 
     { 
       "imagenURL":"../img/unsplash_jMT6BrgBuXU.png",
-      "name": "Radio Rosa ",
+      "name": "Radio Rosa",
       "price": "$167.92 MXN",
       "categorie":"Diversos",
       "description":"Radio antigua, usada.",
