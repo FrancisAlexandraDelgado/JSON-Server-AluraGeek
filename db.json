@@ -56,7 +56,7 @@
     },
 
     {
-      "imagenURL":"../img/unsplash_R8L1l9RN198",
+      "imagenURL":"../img/unsplash_R8L1l9RN198.png",
       "name": "Baby Yoda",
       "categorie":"StarWars",
       "price": "$680 MXN",
@@ -106,7 +106,7 @@
     },
 
     {
-      "imagenURL":"../img/unsplash_4OHkK555s1A.png",
+      "imagenURL":"../img/unsplash_Zjn4dT993-g.png",
       "name": "Computadora de escritorio HP Pavilion",
       "categorie":"Consolas",
       "price": "$848.00 USD",
@@ -115,7 +115,7 @@
     },
    
     {
-      "imagenURL":"../img/unsplash_6FDXGY9J6y4.png",
+      "imagenURL":"../img/unsplash_k-xYhI3-gJM.png",
       "name": "Nintendo Game Boy Pocket Clear Handheld System",
       "categorie":"Consolas",
       "price": "$86,69 EUR",
